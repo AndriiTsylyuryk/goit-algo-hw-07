@@ -23,8 +23,6 @@ class BinarySearchTree:
 
 
 
-
-
 def find_max(node):
     current = node
     while current and current.right:
